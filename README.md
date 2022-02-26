@@ -29,13 +29,14 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Clinton-Abraham/UPLOADER-BOT/issues/14#issuecomment-1021253536)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/SanciCoder/UPLOADER-BOT)
 
 ## BOT COMMANDS
 
 * start - 👻 Check I'm alive or dead
 * help - 📝 How to use this robot
 * search - 🚸 Torrent search
+* 
 * broadcast - 💌 Send message to users
 * total - 👨‍👨‍👦‍👦 To get total users count
 * viewthumbnail - 🌌 Current Thumbnail
