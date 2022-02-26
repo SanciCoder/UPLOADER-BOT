@@ -29,8 +29,7 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/SanciCoder/UPLOADER-BOT.git
-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/SanciCoder/UPLOADER-BOT)
 
 ## BOT COMMANDS
 
